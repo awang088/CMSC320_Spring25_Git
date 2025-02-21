@@ -5,3 +5,7 @@ Answer: It is a powerful version control tool useful for tracking changes, espec
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be used in sports to understand each players' impact on the field.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to the final project
