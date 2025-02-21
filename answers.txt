@@ -6,6 +6,13 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be used in sports to understand each players' impact on the field.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge joins two histories together, rebase applies the commits of a branch onto another created one complete linear history
+
+
+
+
 Q4: What are you looking forward to this semester?
 
 Answer: I'm looking forward to the final project
