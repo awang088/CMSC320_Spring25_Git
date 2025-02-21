@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: It is a powerful version control tool useful for tracking changes, especially in larger projects.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It could be used in sports to understand each players' impact on the field.
